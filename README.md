@@ -1,4 +1,4 @@
-# Proceso de instalación de WPS Office en Ubutntu
+# Proceso de instalación de WPS Office en Ubuntu
 
 1. Tras abrir Ubuntu nos dirigmos a 
 
